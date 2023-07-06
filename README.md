@@ -1,3 +1,3 @@
-# _Tools-Khan-Academy
+# \_Tools-Khan-Academy
 
-Get Lessons metadata from Khan Academy and save info to MongoDB
+Get Lessons metadata from Khan Academy and save it to MongoDB
